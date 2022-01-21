@@ -32,7 +32,7 @@ GoogleTrans has several features:
 - Customizable service URL
 - HTTP/2 support
 
-It can be installed using "pip install pyautogui"
+It can be installed using "pip install googletrans"
 
 
 ## Contact Me: 
