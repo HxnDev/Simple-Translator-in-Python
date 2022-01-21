@@ -22,7 +22,7 @@ It can be installed using "pip install tabulate"
 
 
 ### GoogleTrans:
-Googletrans is a free and unlimited python library that implemented Google Translate API. This uses the Google Translate Ajax API to make calls to such methods as detect and translate.
+Googletrans is a free and unlimited python library that implemented Google Translate API. This uses the Google Translate Ajax API to make calls to such methods as detect and translate. This uses the Google Translate Ajax API to make calls to such methods as detect and translate.
 
 PyAutoGUI has several features:
 
