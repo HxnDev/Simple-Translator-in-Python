@@ -26,11 +26,11 @@ Googletrans is a free and unlimited python library that implemented Google Trans
 
 GoogleTrans has several features:
 
-Fast and reliable - it uses the same servers that translate.google.com uses
-Auto language detection
-Bulk translations
-Customizable service URL
-HTTP/2 support
+- Fast and reliable - it uses the same servers that translate.google.com uses
+- Auto language detection
+- Bulk translations
+- Customizable service URL
+- HTTP/2 support
 
 It can be installed using "pip install pyautogui"
 
