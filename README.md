@@ -12,7 +12,11 @@ Following modules need to be installed for it to work properly:
 - GoogleTrans
 
 ### Tabulate:
-OpenCV is a huge open-source library for computer vision, machine learning, and image processing. OpenCV supports a wide variety of programming languages like Python, C++, Java, etc. It can process images and videos to identify objects, faces, or even the handwriting of a human.
+Tabulate is an open-source python package/module which is used to print tabular data in nicely formatted tables. It is easy to use and contains a variety of formatting functions. It has the following functionalities:
+
+One function call for all types of formatting
+Can be downloaded in multiple output formats
+Provides a better presentation with text and data.
 
 It can be installed using "pip install opencv-python"
 
