@@ -11,13 +11,13 @@ Following modules need to be installed for it to work properly:
 - Tabulate
 - GoogleTrans
 
-### OpenCV:
+### Tabulate:
 OpenCV is a huge open-source library for computer vision, machine learning, and image processing. OpenCV supports a wide variety of programming languages like Python, C++, Java, etc. It can process images and videos to identify objects, faces, or even the handwriting of a human.
 
 It can be installed using "pip install opencv-python"
 
 
-### PyAutoGUI:
+### GoogleTrans:
 PyAutoGUI lets your Python scripts control the mouse and keyboard to automate interactions with other applications.
 
 PyAutoGUI has several features:
