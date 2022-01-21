@@ -26,11 +26,11 @@ Googletrans is a free and unlimited python library that implemented Google Trans
 
 PyAutoGUI has several features:
 
-- Moving the mouse and clicking in the windows of other applications.
-- Sending keystrokes to applications (for example, to fill out forms).
-- Take screenshots, and given an image (for example, of a button or checkbox), and find it on the screen.
-- Locate an application’s window, and move, resize, maximize, minimize, or close it (Windows-only, currently).
-- Display alert and message boxes.
+Fast and reliable - it uses the same servers that translate.google.com uses
+Auto language detection
+Bulk translations
+Customizable service URL
+HTTP/2 support
 
 It can be installed using "pip install pyautogui"
 
