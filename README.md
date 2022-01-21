@@ -18,7 +18,7 @@ Tabulate is an open-source python package/module which is used to print tabular 
 - Can be downloaded in multiple output formats
 - Provides a better presentation with text and data.
 
-It can be installed using "pip install opencv-python"
+It can be installed using "pip install tabulate"
 
 
 ### GoogleTrans:
